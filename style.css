@@ -80,6 +80,8 @@ main {
     line-height: 1.5;
 }
 
+a {text-decoration: none; background-color: none; color: #000000; }
+
 /* ======== RESPONSIVENESS FOR SMALLER SCREENS ======== */
 @media (max-width: 600px) {
     .header-name {
