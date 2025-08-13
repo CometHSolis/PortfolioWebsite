@@ -1,7 +1,7 @@
 /* ======== GENERAL STYLES ======== */
 body {
-    background-color: #f8f9fa; /* A light grey background */
-    color: #343a40; /* Dark grey text for readability */
+    background-color: #175FA6; /* A light grey background */
+    color: #ffffff; /* Dark grey text for readability */
     font-family: 'Lato', sans-serif; /* A clean, modern sans-serif font */
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ body {
 header {
     text-align: center;
     padding: 60px 20px;
-    background-color: #ffffff; /* White background for the header */
+    background-color: #175FA6; /* White background for the header */
     border-bottom: 1px solid #dee2e6; /* A subtle border */
 }
 
@@ -20,7 +20,7 @@ header {
     font-family: 'Playfair Display', serif; /* An elegant serif font for the name */
     font-size: 3.5rem; /* Large font size for the name */
     margin: 0;
-    color: #212529; /* A slightly darker shade for the name */
+    color: #ffffff; /* A slightly darker shade for the name */
 }
 
 .header-bio {
@@ -46,7 +46,7 @@ main {
 }
 
 .portfolio-item {
-    background-color: #ffffff;
+    background-color: #0256AE;
     border-radius: 8px; /* Rounded corners for the cards */
     overflow: hidden; /* Ensures the image respects the rounded corners */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* A subtle shadow for a "card" effect */
@@ -71,7 +71,7 @@ main {
 .project-details h3 {
     margin: 0 0 10px 0;
     font-size: 1.4rem;
-    color: #343a40;
+    color: #ffffff;
 }
 
 .project-details p {
@@ -80,7 +80,7 @@ main {
     line-height: 1.5;
 }
 
-a {text-decoration: none; background-color: none; color: #000000; }
+a {text-decoration: none; background-color: none; color: #ffffff; }
 
 /* ======== RESPONSIVENESS FOR SMALLER SCREENS ======== */
 @media (max-width: 600px) {
